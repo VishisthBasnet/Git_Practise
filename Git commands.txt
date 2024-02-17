@@ -79,7 +79,7 @@ git log --stat it will show all the commit with all the information in the form 
 git log --pretty=oneline   it displays all the information about a commit in one line 
 git log --pretty=short      it will show commit,author and message information only
 
-
+git remote -v  the purpose of the git remote -v commands is to view the urls of the rmote repositories associated with your local git repository
 
 https://github.com/tensorflow/tensorflow.git
 
